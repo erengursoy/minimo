@@ -39,20 +39,21 @@
 }
 .first-text h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #d0ccc2;
 }
 .first-text h2{
     color:#626262;
-    font-size: 30pt;
+    font-size: 30px;
 }
 .first-text h3{
-    font-size: 12pt;
-    color: #626262;
+    font-size: 14px;
+    color: #999999;
+    line-height: 1.5;
 }
 .first-text h4{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #b4ad9e;
     margin-top: 50px;
 }
@@ -61,14 +62,15 @@
 }
 .secont-post .left-post h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #b4ad9e;
 }
 .secont-post .left-post h2{
     color:#626262;
+  
 }
 .secont-post .left-post h3{
-    font-size: 12pt;
+    font-size: 14px;
     margin-top: 40px;
     color: #8c8c8c;  
 }
@@ -80,14 +82,14 @@
 }
 .secont-post .right-post h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #b4ad9e;
 }
 .secont-post .right-post h2{
     color: #626262;
 }
 .secont-post .right-post h3{
-    font-size: 12pt;
+    font-size: 14px;
     margin-top: 40px;
     color: #8c8c8c;
 }
@@ -106,28 +108,28 @@
 
 .third-post .left-post h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #b4ad9e;
 }
 .third-post .left-post h2{
     color: #626262;
 }
 .third-post .left-post h3{
-    font-size: 12pt;
+    font-size: 14px;
     color: #8c8c8c;
      
     
 }
 .third-post .right-post h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color:#b4ad9e;
 }
 .third-post .right-post h2{
     color: #626262;
 }
 .third-post .right-post h3{
-    font-size: 12pt;
+    font-size: 14px;
     color: #8c8c8c;
    
     
@@ -205,14 +207,14 @@
 
 .fourth-post .left-post h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #b4ad9e;
 }
 .fourth-post .left-post h2{
     color: #626262;
 }
 .fourth-post .left-post h3{
-    font-size: 12pt;
+    font-size: 14px;
     color: #8c8c8c;
 }
 .fourth-post .left-post img {
@@ -223,14 +225,14 @@
 }
 .fourth-post .right-post h1{
     font-family: 'Ubuntu', sans-serif;
-    font-size: 10pt;
+    font-size: 14px;
     color: #b4ad9e;
 }
 .fourth-post .right-post h2{
     color: #626262;
 }
 .fourth-post .right-post h3{
-    font-size: 12pt;
+    font-size: 14px;
     color: #8c8c8c;
 }
 .fourth-post{
