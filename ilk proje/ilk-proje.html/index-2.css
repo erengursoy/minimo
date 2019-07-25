@@ -48,8 +48,9 @@
 }
 .first-text h3{
     font-size: 14px;
-    color: #999999;
+    color:#7d7d7d;
     line-height: 1.5;
+    font-family: "Times New Roman", Times, serif;
 }
 .first-text h4{
     font-family: 'Ubuntu', sans-serif;
@@ -73,6 +74,7 @@
     font-size: 14px;
     margin-top: 40px;
     color: #8c8c8c;  
+    line-height: 1.5;
 }
 .secont-post .left-post img{
     width: 100%
@@ -92,6 +94,7 @@
     font-size: 14px;
     margin-top: 40px;
     color: #8c8c8c;
+    line-height: 1.5;
 }
 .secont-post .right-post img{
     width: 100%
@@ -117,8 +120,7 @@
 .third-post .left-post h3{
     font-size: 14px;
     color: #8c8c8c;
-     
-    
+    line-height: 1.5; 
 }
 .third-post .right-post h1{
     font-family: 'Ubuntu', sans-serif;
@@ -131,8 +133,7 @@
 .third-post .right-post h3{
     font-size: 14px;
     color: #8c8c8c;
-   
-    
+    line-height: 1.5;
 }
 .third-post .left-post{
   margin-right: 30px;
@@ -190,6 +191,7 @@
     background-color: #f0f0f0;
     padding: 15px 0 15px 0;
     outline: none;
+    font-size: 14px;
 
 }
 .input .icon {
@@ -216,6 +218,7 @@
 .fourth-post .left-post h3{
     font-size: 14px;
     color: #8c8c8c;
+    line-height: 1.5;
 }
 .fourth-post .left-post img {
     width: 100%;
@@ -234,6 +237,7 @@
 .fourth-post .right-post h3{
     font-size: 14px;
     color: #8c8c8c;
+    line-height: 1.5;
 }
 .fourth-post{
     display: flex;
@@ -270,6 +274,7 @@ margin-top: 250px;
 }
 .footer .left{
     display: inline-block;
+    font-family: Georgia, serif;
   
 }
 .footer .left li{
@@ -283,9 +288,14 @@ margin-top: 250px;
 .footer .right li {
     display: inline;
     padding-left: 20px;
+   
 }
 .footer .right li:first-child{
     padding-left: 0;
+}
+.footer .right a{
+    text-decoration: none;
+    color: #6a6a6a;
 }
 
 
