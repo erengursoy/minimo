@@ -1,0 +1,295 @@
+.menu ul li {
+    list-style-type: none;
+    display:inline-block;
+    padding-right: 100px;
+}
+.menu ul li:last-child {
+    padding-right: 0;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #8c8c8c;
+    font-size: 14px;
+}
+
+.header {
+    padding: 0 50px;
+    margin-top: 65px;
+    margin-bottom: 85px;
+}
+
+.header .logo {
+    display:inline-block;
+}
+.header .menu {
+    float: right;
+    display: inline-block;
+}
+.header .menu ul {
+    margin: 0;
+}
+.first-post{
+    padding: 0 50px;
+}
+.first-post img{
+  width: 100%; 
+}
+.first-text{
+    margin: 100px 120px;
+}
+.first-text h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #d0ccc2;
+}
+.first-text h2{
+    color:#626262;
+    font-size: 30pt;
+}
+.first-text h3{
+    font-size: 12pt;
+    color: #626262;
+}
+.first-text h4{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #b4ad9e;
+    margin-top: 50px;
+}
+.secont-post .left-post {
+    margin-right: 30px; 
+}
+.secont-post .left-post h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #b4ad9e;
+}
+.secont-post .left-post h2{
+    color:#626262;
+}
+.secont-post .left-post h3{
+    font-size: 12pt;
+    margin-top: 40px;
+    color: #8c8c8c;  
+}
+.secont-post .left-post img{
+    width: 100%
+}
+.secont-post .right-post{
+    margin-left: 30px;
+}
+.secont-post .right-post h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #b4ad9e;
+}
+.secont-post .right-post h2{
+    color: #626262;
+}
+.secont-post .right-post h3{
+    font-size: 12pt;
+    margin-top: 40px;
+    color: #8c8c8c;
+}
+.secont-post .right-post img{
+    width: 100%
+}
+
+
+.secont-post{
+    display: flex;
+    justify-content:center;
+    margin-bottom: 130px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.third-post .left-post h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #b4ad9e;
+}
+.third-post .left-post h2{
+    color: #626262;
+}
+.third-post .left-post h3{
+    font-size: 12pt;
+    color: #8c8c8c;
+     
+    
+}
+.third-post .right-post h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color:#b4ad9e;
+}
+.third-post .right-post h2{
+    color: #626262;
+}
+.third-post .right-post h3{
+    font-size: 12pt;
+    color: #8c8c8c;
+   
+    
+}
+.third-post .left-post{
+  margin-right: 30px;
+}
+.third-post .left-post img{
+    width: 100%;
+}
+.third-post .right-post{
+   margin-left: 30px;
+}
+.third-post .right-post img{
+    width: 100%;
+}
+.third-post{
+    display: flex;
+    justify-content: center;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.member-login{
+    width: 100%;
+    background-color: #f0f0f0;
+    margin: 100px 0 ;
+    padding-bottom: 70px;
+}
+
+.member-login .text{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    font-size: 30pt;
+    color: #333333
+}
+.member-login .content{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}
+.input input{
+    
+    border: #000000;
+    border-bottom: 2px solid black;
+}
+::-webkit-input-placeholder{
+    font-size: 14pt;
+    color: #888888;
+  
+
+}
+.input {
+    position: relative;
+}
+.input .email {
+    background-color: #f0f0f0;
+    padding: 15px 0 15px 0;
+    outline: none;
+
+}
+.input .icon {
+    position: absolute;
+    right: 5px;
+    top: 15px;
+    font-size: 20px;
+}
+.fourth-post .left-post {
+    margin-right: 30px
+}
+.fourth-post .right-post {
+    margin-left: 30px;
+}
+
+.fourth-post .left-post h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #b4ad9e;
+}
+.fourth-post .left-post h2{
+    color: #626262;
+}
+.fourth-post .left-post h3{
+    font-size: 12pt;
+    color: #8c8c8c;
+}
+.fourth-post .left-post img {
+    width: 100%;
+}
+.fourth-post .right-post img {
+    width: 100%;
+}
+.fourth-post .right-post h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10pt;
+    color: #b4ad9e;
+}
+.fourth-post .right-post h2{
+    color: #626262;
+}
+.fourth-post .right-post h3{
+    font-size: 12pt;
+    color: #8c8c8c;
+}
+.fourth-post{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.button .more{
+    padding: 15px 30px;
+    border:1px solid #626262;
+    color: #6c6c6c;
+    cursor: pointer;
+  background-color: white;
+  font-size: 20px;
+}
+.button{
+    text-align: center;
+    padding-top: 170px;
+    
+}
+.footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+.footer{
+background-color:#f0f0f0;
+padding: 40px 70px 45px 150px;
+margin-top: 250px;
+
+}
+.footer .right {
+    float: right;
+   
+}
+.footer .left{
+    display: inline-block;
+  
+}
+.footer .left li{
+    display: inline;
+    
+    
+}
+.footer .left li:first-child{
+    padding-right: 17px;    
+}
+.footer .right li {
+    display: inline;
+    padding-left: 20px;
+}
+.footer .right li:first-child{
+    padding-left: 0;
+}
+
+
+
+
+
+
+
+
